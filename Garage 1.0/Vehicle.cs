@@ -23,6 +23,7 @@ namespace Garage_1._0
 
         public override string ToString()
         {
+            ///change
             return String.Format("\nReg Nr: {0}  Wheels: {1}  Color: {2}  Passengers: {3} \n", regnr, wheels, color, passengers);
         }
     }
